@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaela02111(Rafaela de Jesus Santos)
 - 👀 I’m interested in learn about technology, Programming languages.
-- 🌱 I’m currently learning C#, C++, Java and JavaScript
+- 🌱 I’m currently learning C#, C++, Java, JavaScript and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
